@@ -28,7 +28,7 @@ $ pip install epubcheck
 You must have Python & Java installed on your system. The original Java EpubCheck command line
 client itself is bundled in the [PyPi](https://pypi.org/project/epubcheck/) package.
 
-This package is tested with Python 3.8 - 3.12 on Linux, Mac and Windows. It should also work with
+This package is tested with Python 3.8 - 3.13 on Linux, Mac and Windows. It should also work with
 PyPy.
 
 ## Quickstart
@@ -87,6 +87,10 @@ poe all
 ```
 
 ## Changelog
+
+### 5.2.0 - 2025-01-02
+
+- Add support for Python 3.13
 
 ### 5.1.0 - 2024-06-05
 
