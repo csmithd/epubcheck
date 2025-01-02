@@ -88,8 +88,9 @@ poe all
 
 ## Changelog
 
-### 5.2.0 - 2025-01-02
+### 5.2.0 - Unreleased
 
+- Update to epubcheck 5.2.0
 - Add support for Python 3.13
 
 ### 5.1.0 - 2024-06-05
